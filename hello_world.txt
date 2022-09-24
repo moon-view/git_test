@@ -1,2 +1,4 @@
 Hello me
 test stage in git
+
+2. second test use vscode to commit git
