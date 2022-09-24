@@ -2,3 +2,4 @@ Hello me
 test stage in git
 
 2. second test use vscode to commit git
+3. third test use shell to commit but link commit message to vscode
